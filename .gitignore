@@ -1,3 +1,7 @@
+__pycache__/
 .conda/
+models/
 *.keras
+*.tflite
+tflite_with_metadata/
 class_names*.txt
